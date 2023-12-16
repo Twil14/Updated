@@ -1,0 +1,90 @@
+/* styles.css */
+
+/* Font styles */
+body {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+}
+
+/* Container styles */
+.tableau-container {
+    margin-top: 20px;
+}
+
+/* Additional styles based on your preferences */
+/* ... */
+
+/* website.css */
+
+/* Font styles */
+body {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+}
+
+/* Header styles */
+header {
+    background-color: #d65b5b;
+    padding: 10px;
+    text-align: center;
+}
+
+h1 {
+    color: #fff;
+}
+
+/* Navigation styles */
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+}
+
+/* Section styles */
+section {
+    margin: 20px;
+}
+
+/* List styles */
+ol, ul {
+    margin: 10px;
+}
+
+/* Image styles */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
+
+/* YouTube video styles */
+iframe {
+    display: block;
+    margin: 20px auto;
+}
+
+/* Anchor styles */
+a {
+    color: #d65b5b;
+    text-decoration: none;
+}
+
+/* Tableau container styles */
+.tableau-container {
+    margin-top: 20px;
+}
+
+/* Additional styles based on your preferences */
+/* ... */
+
+/* Define at least four style definitions as specified in the requirements */
